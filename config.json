@@ -1,0 +1,35 @@
+{
+    "guildId": "888883229350834176",
+
+    "channels": {
+        "logChannelId": "900487267334881280",
+        "devChannelId": "900487268261851206",
+        "welcomeChannelId": "900487268261851206"
+    },
+
+    "channelEdit": {
+        "user": "900678641195835403"
+    },
+
+    "serverStatus": {
+        "serverId": 888883229350834176,
+        "serverOnlinePlayers": null,
+        "staffOnline": null
+    },
+
+    "roleIds": {
+        "dstaff": "900487223294705694",
+        "PL": "900487223294705694",
+        "Admin": "900487223294705694",
+        "Bot": "900487223294705694",
+        "Dev": "900487223294705694",
+        "DevScript": "900487223294705694",
+        "DevMap": "900487223294705694",
+        "DevDesign": "900487223294705694",
+        "DevContent": "900487223294705694",
+        "DevWeb": "900487223294705694",
+        "Sup": "900487223294705694"
+    },
+
+    "playings": ["Wir suchen Entwickler*innen!", "Wir suchen Gamedesigner*innen!", "Wir suchen Supporter*innen!", "Testing new Features"]
+}
